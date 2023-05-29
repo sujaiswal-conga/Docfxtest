@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Conga.CoreApps.DocGen.Word | Composer NextGen </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Conga.CoreApps.DocGen.Word | Composer NextGen ">
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../../articles/toc.html">
+      
+      
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/congaengr/CoreApps/blob/master/libraries/CoreApps.DocGen.Word/README.md/#L1">
+  </head>
+
+  <script type="module">
+    import options from './../../public/main.js'
+    import { init } from './../../public/docfx.min.js'
+    init(options)
+  </script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../images/conga.png" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="congacoreappsdocgenword">Conga.CoreApps.DocGen.Word</h1>
+
+<p>House of all class libraries for processing MS Word documents. Currently all the modules are bundled into a single package called <code>Conga.CoreApps.DocGen.Word</code>.</p>
+<h2 id="installation">Installation</h2>
+<pre><code>dotnet add package Conga.CoreApps.DocGen.Word
+</code></pre>
+<h2 id="list-of-modules">List of modules</h2>
+<h3 id="core">Core</h3>
+<p>Contains core class libraries that contains some common classes and abstractions needed for processing MS word documents.</p>
+<ul>
+<li><code>CoreApps.DocGen.Word.Core</code> =&gt; Contains the core classes for Word processing like <code>WordDocument</code>, IWordTemplateMergeEngine` etc.</li>
+</ul>
+<h3 id="templates">Templates</h3>
+<p>Contains class libararies that contains object models for different templates built on MS Word documents.</p>
+<ul>
+<li><code>CoreApps.DocGen.Word.Aspose</code> - Contains classes for Aspose Linq Engine based templates.</li>
+<li><code>CoreApps.DocGen.Word.XAuthor</code> - Contains classes for XAuthor templates. XAuthor is a home-grown template solution.</li>
+<li><code>CoreApps.DocGen.Word.Native</code> - Contains classes to represent a generic template that contains pure classes not tied with Word or any format.</li>
+<li><code>CoreApps.DocGen.Word.Web</code> - Contains classes to represent a Word template in HTML.</li>
+</ul>
+<h3 id="transformers">Transformers</h3>
+<p>Contains class libararies that transforms one template type to another.</p>
+<ul>
+<li><code>CoreApps.DocGen.Word.XAuthor2Aspose</code> - Contains classes that helps to transform an XAuthor template to Aspose template.</li>
+<li><code>CoreApps.DocGen.Word.XAuthor2Native</code> - Contains classes that helps to transform an XAuthor template to Native template.</li>
+<li><code>CoreApps.DocGen.Word.Native2Aspose</code> - Contains classes that helps to transform a Native template to Aspose template.</li>
+<li><code>CoreApps.DocGen.Word.Native2Web</code> - Contains classes that helps to transform a Native template to HTML template.</li>
+<li><code>CoreApps.DocGen.Word.Web2Native</code> - Contains classes that helps to transform a Web template to Native template.</li>
+</ul>
+<h3 id="engines">Engines</h3>
+<p>Contains merge engines. Currently we've two merge engines and both are based out of Aspose library.</p>
+<p><code>CoreApps.DocGen.Word.AsposeLinqEngine</code> - Advanced merge engine for Aspose Linq Engine Based Templates.
+<code>CoreApps.DocGen.Word.AsposeMergeEngine</code> - Advanced merge engine for Aspose Merge Field Based Templates.</p>
+<h3 id="export">Export</h3>
+<p>Contains the export library <code>Conga.CoreApps.DocGen.Word</code> that references all the other ones.</p>
+<h2 id="contact">Contact</h2>
+<p>vanand@conga.com, #MiceTeam</p>
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/congaengr/CoreApps/blob/master/libraries/CoreApps.DocGen.Word/README.md/#L1" class="edit-link">Edit this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

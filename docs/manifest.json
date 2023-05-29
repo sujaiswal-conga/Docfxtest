@@ -1,0 +1,5761 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/git/CoreApps/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/CODE_OF_CONDUCT.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/CODE_OF_CONDUCT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/SETUP.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/SETUP.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Cache/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Cache/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Domain/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Domain/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Messaging/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Messaging/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Setup/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Setup/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Transaction/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Transaction/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Validation/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Validation/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Web/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Web/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Worker/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Worker/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/Conga.Dragon/src/Workflow/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/Conga.Dragon/src/Workflow/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Base/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Base/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Base/CODE_OF_CONDUCT.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Base/CODE_OF_CONDUCT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Base/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Base/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Data/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Data/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Data/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Data/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.DataSet/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.DataSet/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.DataSet/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.DataSet/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Messages/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Messages/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Messages/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Messages/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Models/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Models/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Models/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Models/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Pdf/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Pdf/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Pdf/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Pdf/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.RLS/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.RLS/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.RLS/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.RLS/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Salesforce/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Salesforce/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Salesforce/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Salesforce/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Sdk/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Sdk/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Sdk/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Sdk/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Word/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Word/CHANGELOG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Word/CODE_OF_CONDUCT.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Word/CODE_OF_CONDUCT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../libraries/CoreApps.DocGen.Word/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "libraries/CoreApps.DocGen.Word/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/data/DataDolphin/CONTRIBUTING.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/data/DataDolphin/CONTRIBUTING.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/data/DataDolphin/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/data/DataDolphin/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/integration/ConnectCrane/CONTRIBUTING.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/integration/ConnectCrane/CONTRIBUTING.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/integration/ConnectCrane/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/integration/ConnectCrane/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/merge/DocumentDove/CODE_OF_CONDUCT.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/merge/DocumentDove/CODE_OF_CONDUCT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../src/services/merge/DocumentDove/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "src/services/merge/DocumentDove/README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Conga.Dragon.Web.Extensions.Controllers.DragonController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Conga.Dragon.Web.Extensions.Controllers.DragonController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Conga.Dragon.Web.Extensions.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Conga.Dragon.Web.Extensions.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.ActionRunner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.ActionRunner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.DocumentAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.DocumentAction-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IActionRunner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IActionRunner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IDocumentAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IDocumentAction-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IDocumentAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.IDocumentAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Action.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateAnalysisResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateAnalysisResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateAnalyzeOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateAnalyzeOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.TemplateFeature.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Services.ITemplateAnalyzer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Services.ITemplateAnalyzer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Analysis.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.EnumerableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.EnumerableExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.StreamExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.StreamExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.Node-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.Node-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.Tree-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.Tree-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Base64Helper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Base64Helper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Gzip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Gzip.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.ITreeTransformer-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.ITreeTransformer-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.IdGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.IdGenerator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Serializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.Serializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.TreeTransformer-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.TreeTransformer-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.DataSource.Services.ITemplateDataSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.DataSource.Services.ITemplateDataSource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.DataSource.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.DataSource.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Document.Models.BaseDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Document.Models.BaseDocument.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Document.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Document.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.BaseTemplateMergeEngine-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.BaseTemplateMergeEngine-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.IMergeCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.IMergeCallback.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.ITemplateMergeEngine-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.ITemplateMergeEngine-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.ITemplateMergeEngine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.ITemplateMergeEngine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeArguments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeArguments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeCallbackResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeCallbackResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeEngineOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergeEngineOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergePostCallbackOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergePostCallbackOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergePreCallbackOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.MergePreCallbackOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.TemplateMergeResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.TemplateMergeResult-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.TemplateMergeResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.TemplateMergeResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.MergeEngine.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.MergeEnginesRegistry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.MergeEnginesRegistry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.TemplateTransformersRegistry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.TemplateTransformersRegistry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Registries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.ITemplate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.ITemplate-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.ITemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.ITemplate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Template.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.BaseTemplateTransformer-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.BaseTemplateTransformer-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.ITemplateTransformer-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.ITemplateTransformer-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.ITemplateTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.ITemplateTransformer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TemplateTransformResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TemplateTransformResult-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TemplateTransformResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TemplateTransformResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TransformOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.TransformOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.Transformers.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Base.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.DocumentEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.DocumentEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.TemplateEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.TemplateEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.TemplateVersionEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.TemplateVersionEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.UserEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.UserEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Entities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.CommonDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.CommonDataType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ComplexFieldMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ComplexFieldMetadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionJoinType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionJoinType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionalOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionalOperator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionalOperatorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ConditionalOperatorExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.Currency.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.CurrencyDisplayType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.CurrencyDisplayType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.DocumentQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.DocumentQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.EntityMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.EntityMetadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.FieldMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.FieldMetadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.Metadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.Metadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ObjectQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.ObjectQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PaginationParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PaginationParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PicklistEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PicklistEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PicklistMetdata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.PicklistMetdata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.QueryCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.QueryCondition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.QueryResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.QueryResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SortDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SortDirection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SortParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SortParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SubQueryType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.SubQueryType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.TemplateQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.TemplateQuery.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.EntityInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.EntityInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetCurrentUserResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetCurrentUserResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetDocumentResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetDocumentResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetMetadataResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetMetadataResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetTemplateResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetTemplateResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetUserInfoResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.GetUserInfoResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.IPlatformDbAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.IPlatformDbAdapter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.PullDataResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.PullDataResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryDocumentsResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryDocumentsResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryTemplatesAndDataResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryTemplatesAndDataResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryTemplatesResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.QueryTemplatesResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.SaveDocumentsResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.SaveDocumentsResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.TemplateInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.TemplateInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.TemplateSchemaAndData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.TemplateSchemaAndData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Data.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Constants.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.DataFormattingOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.DataFormattingOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Extensions.MetadataExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Extensions.MetadataExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.ISchemaAware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.ISchemaAware.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.ISmartSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.ISmartSet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.IXPathQueryable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.IXPathQueryable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Models.AdditionalFormatOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Models.AdditionalFormatOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.DataSetWalker.PathStop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.DataSetWalker.PathStop.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.DataSetWalker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.DataSetWalker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.TypeMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.TypeMapper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.WalkerResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.WalkerResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartColumn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartRelation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartRelation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartSet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.SmartTable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.DataSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.DataSet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.EntityInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.EntityInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetDocumentsCompleteMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetDocumentsCompleteMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetDocumentsMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetDocumentsMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetMergeDataCompleteMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetMergeDataCompleteMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetMergeDataMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetMergeDataMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetTemplatesCompleteMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetTemplatesCompleteMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetTemplatesMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.GetTemplatesMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveDocumentsCompleteMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveDocumentsCompleteMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveDocumentsMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveDocumentsMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveTemplatesCompleteMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveTemplatesCompleteMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveTemplatesMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.SaveTemplatesMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.TemplateInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.TemplateInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Messages.Messages.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.BaseRequestMetaData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.BaseRequestMetaData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.ConvertRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.ConvertRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DataSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DataSource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentDestination.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentDestination.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentOutputOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentOutputOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentSource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentWorkflowRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentWorkflowRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentWorkflowResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.DocumentWorkflowResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.HeaderFooterOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.HeaderFooterOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.HeaderFooterStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.HeaderFooterStyle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.JoinDocumentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.JoinDocumentOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.JoinRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.JoinRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.MergeRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.MergeRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.PdfProtectionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.PdfProtectionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.TemplateSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.TemplateSource.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.WatermarkOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.WatermarkOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.WordProtectionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.WordProtectionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Models.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Models.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.JoinDocumentAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.JoinDocumentAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.JoinDocumentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.JoinDocumentOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.ProtectionAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.ProtectionAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.ProtectionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.ProtectionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Actions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Extensions.ProtectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Extensions.ProtectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Models.PdfDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Models.PdfDocument.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.PdfProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.PdfProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.PdfProcessorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.PdfProcessorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Pdf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Pdf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.ICongaPlatformDbAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.ICongaPlatformDbAdapter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.MappingProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.MappingProfile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.DocumentObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.DocumentObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.TemplateVersionObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.TemplateVersionObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.RLS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.RLS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.ISalesforceDbAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.ISalesforceDbAdapter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.MappingProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.MappingProfile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.Attachment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.Attachment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.BaseSalesforceObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.BaseSalesforceObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentDocument.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentDocumentLink.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentDocumentLink.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.ContentVersion.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.SalesforceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.SalesforceConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.BaseOperationOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.BaseOperationOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateAttachmentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateAttachmentOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateAttachmentResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateAttachmentResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateFileOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateFileOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateFileResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateFileResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.CreateResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DbResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DbResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DeleteOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DeleteOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DeleteResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.DeleteResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetAttachmentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetAttachmentOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetAttachmentResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetAttachmentResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetFileOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetFileOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetFileResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.GetFileResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.IQueryMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.IQueryMapper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.ISalesforceDb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.ISalesforceDb.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.QueryOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.QueryOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.QueryResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.QueryResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.UpdateOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.UpdateOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.UpdateResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.UpdateResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Salesforce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Salesforce.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.DocGenConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.DocGenConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Models.DocumentWorkflowAsyncResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Models.DocumentWorkflowAsyncResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.BaseWorkflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.BaseWorkflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.DocumentWorkflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.DocumentWorkflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.IDocumentWorkflowService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.IDocumentWorkflowService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.WorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.WorkflowBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Sdk.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Sdk.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.CompareAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.CompareAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.CompareActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.CompareActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToHtmlAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToHtmlAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToHtmlActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToHtmlActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToImageAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToImageAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToImageActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToImageActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToPdfAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToPdfAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToPdfActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ConvertToPdfActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.DocumentMetadataUpdateAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.DocumentMetadataUpdateAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.DocumentMetadataUpdateActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.DocumentMetadataUpdateActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.HeaderFooterStyle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.JoinDocumentAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.JoinDocumentAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.JoinDocumentOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.JoinDocumentOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfCompressionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfCompressionType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfImageCompressionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfImageCompressionType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfStandard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.PdfStandard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ProtectionAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ProtectionAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ProtectionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.ProtectionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateMergeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateMergeAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateMergeActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateMergeActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateTransformAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateTransformAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateTransformActionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.TemplateTransformActionOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.WatermarkAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.WatermarkAction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.WatermarkOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.WatermarkOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Actions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.HeaderFooterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.HeaderFooterExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.ProtectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.ProtectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.WatermarkExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.WatermarkExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.WordProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.WordProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.WordProcessorConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.WordProcessorConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.Word.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.Word.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.CoreApps.DocGen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.CoreApps.DocGen.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheDeleteParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheDeleteParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheReadParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheReadParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.CacheWriteParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.CacheWriteParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.IObjectCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.IObjectCache.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.ObjectCacheResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.ObjectCacheResult-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.ObjectCacheResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.ObjectCacheResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.ObjectCollectionCacheResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.ObjectCollectionCacheResult-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.ObjectCollectionCacheResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.ObjectCollectionCacheResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.StreamExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.StreamExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Cache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Cache.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Adapters.IModelAdapter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Adapters.IModelAdapter-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Adapters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Adapters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Attributes.CommandBehaviorAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Attributes.CommandBehaviorAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.BaseAggregateRoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.BaseAggregateRoot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.BaseEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.BaseEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Behaviors.LoggingBehavior-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Behaviors.LoggingBehavior-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Behaviors.ValidationBehavior-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Behaviors.ValidationBehavior-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Behaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Behaviors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Commands.BaseCommand-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Commands.BaseCommand-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Commands.BaseCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Commands.BaseCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Commands.ICommandBehavior-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Commands.ICommandBehavior-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Commands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Db.IDbRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Db.IDbRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Db.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Db.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.DomainConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.DomainConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.BaseAppEventPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.BaseAppEventPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.DomainEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.DomainEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.EventPublishResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.EventPublishResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.EventWorkflowStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.EventWorkflowStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.IAppEventPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.IAppEventPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.NoopAppEventPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.NoopAppEventPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Events.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Extensions.EnumerableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Extensions.EnumerableExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Extensions.ObjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Extensions.ObjectExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Handlers.BaseCommandHandler-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Handlers.BaseCommandHandler-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Handlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Handlers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.IAggregateRoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.IAggregateRoot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.IEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.IEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.IValueObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.IValueObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Models.CommandResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Models.CommandResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Models.CommandResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Models.CommandResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Models.InitiatorContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Models.InitiatorContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Models.InitiatorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Models.InitiatorType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Ports.IPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Ports.IPort.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Ports.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Ports.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Queries.BaseQuery-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Queries.BaseQuery-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Queries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Queries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.IInitiatorContextProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.IInitiatorContextProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.IInitiatorContextStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.IInitiatorContextStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.IObjectSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.IObjectSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.IScopeDataStore-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.IScopeDataStore-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.InitiatorContextProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.InitiatorContextProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.InitiatorContextStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.InitiatorContextStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.ObjectSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.ObjectSerializer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.ScopeDataStore-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.ScopeDataStore-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.SerializationSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.SerializationSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Domain.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Dragon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Dragon.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.DragonConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.DragonConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.DragonStartupParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.DragonStartupParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.Broker.BrokerConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.Broker.BrokerConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.Broker.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.Broker.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.Broker.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.Broker.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.Broker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.Broker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.DragonEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.DragonEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.IEventBroker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.IEventBroker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Events.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.Attributes.TraceAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.Attributes.TraceAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.IDragonTracer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.IDragonTracer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.InstrumentationConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.InstrumentationConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.TelSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.TelSpan.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Instrumentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Instrumentation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.MessageAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.MessageAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.MessageMemberAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.MessageMemberAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.BindDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.BindDirection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.CacheScope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.CacheScope.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.IDataTypeFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.IDataTypeFormatter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.IGenericDataTypeFormatter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.IGenericDataTypeFormatter-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Annotations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Annotations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.AdditionalPublishOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.AdditionalPublishOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.CongaMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.CongaMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.DependencyInjection.ServicesConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.DependencyInjection.ServicesConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.IMessageBroker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.IMessageBroker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.MessagePublishResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.MessagePublishResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.MessageReceived.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.MessageReceived.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.MessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.MessageReceivedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Broker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Broker.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Cache.HandlerMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Cache.HandlerMetadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Cache.MetadataCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Cache.MetadataCache.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Cache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Cache.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Context.IMessageContextProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Context.IMessageContextProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Context.IMessageContextStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Context.IMessageContextStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Context.MessageContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Context.MessageContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Context.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Context.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.DependencyInjection.ServicesConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.DependencyInjection.ServicesConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Exceptions.MessagingException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Exceptions.MessagingException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Exceptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Factories.IMessageFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Factories.IMessageFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Factories.IMessageHandlerFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Factories.IMessageHandlerFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Factories.MessageHandlerData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Factories.MessageHandlerData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Factories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Factories.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Formatters.BaseDataTypeFormatter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Formatters.BaseDataTypeFormatter-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Formatters.DataTypeFormatterDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Formatters.DataTypeFormatterDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Formatters.DefaultDataTypeFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Formatters.DefaultDataTypeFormatter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Formatters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Formatters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.BaseMessageHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.BaseMessageHandler-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerInterceptionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerInterceptionMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerInterceptorDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerInterceptorDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.HandlerResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.IHandlerInterceptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.IHandlerInterceptor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.IMessageHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.IMessageHandler-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.IMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.IMessageHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.InterceptAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.InterceptAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.InterceptorRequestContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.InterceptorRequestContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.MessageReceiveOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.MessageReceiveOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.RetryAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.RetryAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Handlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Handlers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.IMessageErrorHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.IMessageErrorHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.IMessagingSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.IMessagingSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.MessagingConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.MessagingConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.MessagingSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.MessagingSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.MessagingSetupOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.MessagingSetupOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.IMessageHandlerMetadataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.IMessageHandlerMetadataProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.IMessageMetadataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.IMessageMetadataProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageHandlerDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageHandlerDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageMemberDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.MessageMemberDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Metadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Metadata.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.Message.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessageBodyMember.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessageBodyMember.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessageHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessageHeader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessageMember.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessageMember.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessagePayload-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessagePayload-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessagePayload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessagePayload.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessageProgressStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessageProgressStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.MessageStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.MessageStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.ReceiverContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.ReceiverContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.SenderContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.SenderContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.DoublyLinkedListNode-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.DoublyLinkedListNode-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.HandledMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.HandledMessage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.IMessagingNetwork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.IMessagingNetwork.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.MessageCompleted.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.MessageCompleted.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.MessageCompletedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.MessageCompletedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.NetworkOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.NetworkOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.ProcessorRequestContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.ProcessorRequestContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Network.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Network.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.BaseMessageProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.BaseMessageProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.IMessageProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.IMessageProcessor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessorRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessorRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.ProcessorResponse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Processors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Processors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.IMessagePublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.IMessagePublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublishOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublishOptions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublished.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublished.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublishedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.MessagePublishedEventArgs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.PublisherResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.PublisherResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Publishers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Publishers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Scanners.IMessageHandlerScanner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Scanners.IMessageHandlerScanner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Scanners.IMessageScanner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Scanners.IMessageScanner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Scanners.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Scanners.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Services.NonBlockingAutoResetEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Services.NonBlockingAutoResetEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Messaging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Messaging.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Attributes.RecordTransactionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Attributes.RecordTransactionAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Behaviors.RecordTransactionBehavior-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Behaviors.RecordTransactionBehavior-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Behaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Behaviors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Entities.TransactionEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Entities.TransactionEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Entities.TransactionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Entities.TransactionStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Entities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Ports.ITransactionRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Ports.ITransactionRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Ports.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Ports.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.ITransactionScopeProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.ITransactionScopeProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.ITransactionScopeStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.ITransactionScopeStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.InitiatorContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.InitiatorContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.TransactionScope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.TransactionScope.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.TransactionScopeStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.TransactionScopeStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.TransactionConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.TransactionConfig.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Transaction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Transaction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Validation.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Validation.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Validation.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Validation.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Validation.IModelValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Validation.IModelValidator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Validation.ValidationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Validation.ValidationException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Validation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Validation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.Controllers.HealthCheckController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.Controllers.HealthCheckController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.Controllers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.DragonWebStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.DragonWebStartup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.Filters.TraceActionFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.Filters.TraceActionFilter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.Filters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.Filters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.WebAppConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.WebAppConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Web.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Web.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Worker.Extensions.Adapters.BaseMessageAdapter-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Worker.Extensions.Adapters.BaseMessageAdapter-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Worker.Extensions.Adapters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Worker.Extensions.Adapters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Worker.Extensions.DragonWorkerStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Worker.Extensions.DragonWorkerStartup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Worker.Extensions.WorkerConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Worker.Extensions.WorkerConfiguration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Worker.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Worker.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Attributes.ParamDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Attributes.ParamDirection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Attributes.StepAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Attributes.StepAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Attributes.StepParamAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Attributes.StepParamAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Attributes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.IAppWorkflow-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.IAppWorkflow-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.ISequentialAppWorkflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.ISequentialAppWorkflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowBuilder-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowRuntime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.IWorkflowRuntime.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.BaseWorkflowStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.BaseWorkflowStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.ISequentialWorkflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.ISequentialWorkflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.ISequentialWorkflowBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.ISequentialWorkflowBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.IStepFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.IStepFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.IWorkflowStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.IWorkflowStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepExecutionContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepExecutionContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepExecutionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepExecutionResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.StepStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.EmitSendStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.EmitSendStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.EventReceiveStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.EventReceiveStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.InvokeCommandStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.InvokeCommandStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.SendAndReceiveStep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.SendAndReceiveStep.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.Steps.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.Sequential.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowCreateParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowCreateParams.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowExecutionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowExecutionResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.WorkflowStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Entities.WorkflowEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Entities.WorkflowEntity.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Entities.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Models.SequentialWorkflowDefiniton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Models.SequentialWorkflowDefiniton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Models.WorkflowDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Models.WorkflowDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Models.WorkflowStepDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Models.WorkflowStepDefinition.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Persistence.DependencyInjection.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Persistence.DependencyInjection.ServiceCollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Persistence.DependencyInjection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Persistence.DependencyInjection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Persistence.Models.WorkflowObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Persistence.Models.WorkflowObject.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Persistence.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Persistence.Models.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Persistence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Persistence.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Ports.IWorkflowRepository.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Ports.IWorkflowRepository.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.Ports.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.Ports.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.Workflow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.Workflow.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.Dragon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.Dragon.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Conga.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Conga.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/Composer_NextGen.pdf",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/Composer_NextGen.pdf"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/libraries.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/libraries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/conga.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/conga.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/conga.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/conga.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Conga.Dragon.Domain | Composer NextGen </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Conga.Dragon.Domain | Composer NextGen ">
+      
+      <link rel="icon" href="../../../../favicon.ico">
+      <link rel="stylesheet" href="../../../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../../../public/main.css">
+      <meta name="docfx:navrel" content="../../../../toc.html">
+      <meta name="docfx:tocrel" content="../../../../toc.html">
+      
+      
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/congaengr/CoreApps/blob/master/libraries/Conga.Dragon/src/Domain/README.md/#L1">
+  </head>
+
+  <script type="module">
+    import options from './../../../../public/main.js'
+    import { init } from './../../../../public/docfx.min.js'
+    init(options)
+  </script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../../../index.html">
+            <img id="logo" class="svg" src="../../../../images/conga.png" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="congadragondomain">Conga.Dragon.Domain</h1>
+
+<p>This module contains project that contains artifacts to simplify Domain Driven Development. It also provides to write commands and queries (CQRS) easily and attach custom behaviors to them.</p>
+<h2 id="ientity"><code>IEntity</code></h2>
+<p>Any component that is an identity should implement this interface. You don't have to directly use this interface lot of times and instead you should refer <code>BaseEntity</code> which implements this interface.</p>
+<h2 id="baseentity"><code>BaseEntity</code></h2>
+<p>Any class that is an entity should derive from this abstract class. An entity is something that has an identity and can be persisted to database. The class contains generic properties like <code>Id</code>, <code>Name</code>, <code>CreatedDate</code>, <code>LastModifiedDate</code> etc.</p>
+<h2 id="iaggregateroot"><code>IAggregateRoot</code></h2>
+<p>Represents an aggregate root. An aggregate root is a class which works as an entry point to our aggregate. All business operations should go through the root. This way, the aggregate root can take care of keeping the aggregate in a consistent state. The root is what takes cares of all our business invariants. Instead of using this interface please use <code>BaseAggregateRoot</code>. Refer: <a href="https://martinfowler.com/bliki/DDD_Aggregate.html">https://martinfowler.com/bliki/DDD_Aggregate.html</a>.</p>
+<h2 id="baseaggregateroot"><code>BaseAggregateRoot</code></h2>
+<p>The abstract base class for all aggregate roots.</p>
+<h2 id="ivalueobject"><code>IValueObject</code></h2>
+<p>Represents a value object. A value object is a design pattern in which an object is made to represent something simple, like currencies or dates. For more details refer <a href="https://martinfowler.com/bliki/ValueObject.html">https://martinfowler.com/bliki/ValueObject.html</a>.</p>
+<h2 id="basecommand"><code>BaseCommand</code></h2>
+<p>The abstract base class for all commands that can be invoked in a busines domain or bounded context. This class implements <code>IRequest</code> of MediatR library.</p>
+<h2 id="basequery"><code>BaseQuery</code></h2>
+<p>Represents a query that pulls and return data from the domain.</p>
+<h2 id="basecommandhandler"><code>BaseCommandHandler</code></h2>
+<p>All command handlers in your domain should derive from this class. It implements MediatR's <code>IRequestHandler</code>. Takes care of validating all commands before invoking them.</p>
+<h2 id="icommandbehavior"><code>ICommandBehavior</code></h2>
+<p>Represents a command that attaches custom behavior to a command or query at domain level. You can also use the <code>CommandBehaviorAttribute</code> to do the same for specific command(s) or query(s).</p>
+<h2 id="commandbehaviorattribute"><code>CommandBehaviorAttribute</code></h2>
+<p>Represents a class that affects the behavior of a command / query.</p>
+<h2 id="iport"><code>IPort</code></h2>
+<p>Represents a port through which an external system can access the domain or from domain we can interact with an external system. For more information please google &quot;Ports &amp; Adapters&quot; or hexagonal architecture.</p>
+<h2 id="idbrepository"><code>IDbRepository</code></h2>
+<p>Represents an external port that helps to interact with database ops.</p>
+<h2 id="iappeventpublisher"><code>IAppEventPublisher</code></h2>
+<p>Represents an outbound port that helps to publish domain events.</p>
+<h2 id="domainevent"><code>DomainEvent</code></h2>
+<p>An abstract class that represents an event published from the domain.</p>
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/congaengr/CoreApps/blob/master/libraries/Conga.Dragon/src/Domain/README.md/#L1" class="edit-link">Edit this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

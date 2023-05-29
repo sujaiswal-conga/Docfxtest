@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Conga.CoreApps.DocGen.DataSet | Composer NextGen </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Conga.CoreApps.DocGen.DataSet | Composer NextGen ">
+      
+      <link rel="icon" href="../../favicon.ico">
+      <link rel="stylesheet" href="../../public/docfx.min.css">
+      <link rel="stylesheet" href="../../public/main.css">
+      <meta name="docfx:navrel" content="../../toc.html">
+      <meta name="docfx:tocrel" content="../../articles/toc.html">
+      
+      
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/congaengr/CoreApps/blob/master/libraries/CoreApps.DocGen.DataSet/README.md/#L1">
+  </head>
+
+  <script type="module">
+    import options from './../../public/main.js'
+    import { init } from './../../public/docfx.min.js'
+    init(options)
+  </script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../../index.html">
+            <img id="logo" class="svg" src="../../images/conga.png" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="congacoreappsdocgendataset">Conga.CoreApps.DocGen.DataSet</h1>
+
+<h2 id="description">Description</h2>
+<p>This is a C# library that extends the built-in DataSet (SmartSet) and adds additional capabilities like retrieving data using XPath like syntax, binds custom metadata to tables and columns etc.</p>
+<h2 id="installation">Installation</h2>
+<pre><code>dotnet add package Conga.CoreApps.DocGen.DataSet
+</code></pre>
+<h2 id="smartset-methods">SmartSet Methods</h2>
+<h3 id="void-fillstring-schemaanddataxml---fills-the-smart-set-with-schema-and-data">void Fill(string schemaAndDataXml) - Fills the smart set with schema and data.</h3>
+<h3 id="void-fillsystemdatadataset-dataset---fills-the-smartset-from-dataset">void Fill(System.Data.DataSet dataSet) - Fills the smartset from dataset.</h3>
+<h3 id="void-fillilist-schemas-idictionarystring-listdictionarystring-dynamic-data---fills-the-smartset-with-schema-and-data">void Fill(IList<entitymetadata> schemas, IDictionary&lt;string, List&lt;Dictionary&lt;string, dynamic&gt;&gt;&gt; data) - Fills the smartset with schema and data.</entitymetadata></h3>
+<h3 id="object-getstring-path-object-source--null---returns-data-from-the-passed-path-the-path-looks-like-xpath-for-ex-apttus__apts_agreement__capttus__account__caccount_name">object Get(string path, object source = null) - Returns data from the passed path. The path looks like XPath for ex. &quot;/Apttus__APTS_Agreement__c/Apttus__Account__c/account_name&quot;.</h3>
+<h3 id="t-getstring-path-object-source--null---returns-data-from-the-passed-path">T Get<t>(string path, object source = null) - Returns data from the passed path.</t></h3>
+<h3 id="ilist-querystring-path-string-filters--null-string-sortargs--null-object-source--null---queries-collection-from-the-passed-path-applying-filtering-and-sorting">IList<datarow> Query(string path, string filters = null, string sortArgs = null, object source = null) - Queries collection from the passed path applying filtering and sorting.</datarow></h3>
+<h3 id="string-renderstring-path-string-format--null-object-source--null---retrieved-data-from-the-passed-path-and-then-formats-the-retrieve-data-based-on-the-passed-format-or-from-the-default-value-configured-for-the-data-type">string Render(string path, string format = null, object source = null) - Retrieved data from the passed path and then formats the retrieve data based on the passed format or from the default value configured for the data type.</h3>
+<h3 id="string-formatobject-data-string-format---formats-data-in-the-passed-format">string Format(object data, string format) - Formats data in the passed format.</h3>
+<h3 id="entitymetadata-getentitymetadatastring-name---returns-entity-metadata-that-is-tied-with-the-passed-table-name">EntityMetadata GetEntityMetadata(string name) - Returns entity metadata that is tied with the passed table name.</h3>
+<h3 id="void-addentitymetadataentitymetadata-entitymetadata---creates-new-table-from-the-passed-entity-metadata-information-and-adds-to-the-dataset">void AddEntityMetadata(EntityMetadata entityMetadata) - Creates new table from the passed entity metadata information and adds to the dataset.</h3>
+<h3 id="fieldmetadata-getfieldmetadatastring-entityname-string-fieldname---returns-field-metadata-from-the-passed-table-and-column-name">FieldMetadata GetFieldMetadata(string entityName, string fieldName) - Returns field metadata from the passed table and column name.</h3>
+<h3 id="void-adddatastring-entityname-params-object-data---adds-new-row-for-the-passed-entity-or-table">void AddData(string entityName, params object[] data) - Adds new row for the passed entity or table.</h3>
+<h3 id="t-getmetadatastring-path-object-source--null-where-t-metadata---returns-the-bound-entity-or-field-metadata-from-the-passed-path">T GetMetadata<t>(string path, object source = null) where T: Metadata - Returns the bound entity or field metadata from the passed path.</t></h3>
+<h2 id="owners">Owners</h2>
+<p>vanand-conga, rprajapati-conga</p>
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/congaengr/CoreApps/blob/master/libraries/CoreApps.DocGen.DataSet/README.md/#L1" class="edit-link">Edit this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
