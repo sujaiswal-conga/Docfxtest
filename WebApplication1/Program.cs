@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 }
 //This is a comment
 
-
+//test comment
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
